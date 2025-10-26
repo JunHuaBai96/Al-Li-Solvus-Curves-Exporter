@@ -4,6 +4,9 @@
 
 本项目在作者拟合曲线的基础上，将论文 Table 1 中另外两组理论曲线（Hallstedt & Kim；Khachaturyan 等）加入同一张图，并将三组六条曲线的计算数据导出为 Excel 文件。
 
+<img width="1503" height="1508" alt="image" src="https://github.com/user-attachments/assets/ba8c95dc-d094-4326-ab81-5ecc9cb45ff1" />
+
+
 ## 文件结构
 - `The Equilibrium α (Al-Li Solid Solution) and Metastable δ′ (Al3Li) Phase Boundaries in Aluminum–Lithium Alloys.pdf`：作者论文 PDF。
 - `gg copy.py`：主绘图与数据导出脚本（三组曲线）。
