@@ -95,6 +95,3 @@ Table 1（两组理论曲线）：
 ## 参考
 - Ardell, A. J. (2023). The Equilibrium α (Al-Li Solid Solution) and Metastable δ′ (Al3Li) Phase Boundaries in Aluminum–Lithium Alloys. J. Phase Equilib. Diffus., 44:255–268.
 - Hallstedt & Kim（热力学评估模型）与 Khachaturyan 等（BMG 模型）的相界表达式，见论文 Table 1。
-
----
-如需将三组曲线分别写入独立工作表、调整图例布局、或更换颜色/线型，请告知你的偏好，我可以进一步定制。
