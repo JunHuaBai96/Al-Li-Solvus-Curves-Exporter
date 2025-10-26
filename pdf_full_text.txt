@@ -1,0 +1,1151 @@
+===== PAGE 1 =====
+J.PhaseEquilib.Diffus.(2023)44:255–268
+https://doi.org/10.1007/s11669-023-01039-x
+α δ′
+The Equilibrium (Al-Li Solid Solution) and Metastable (Al Li)
+3
+–
+Phase Boundaries in Aluminum Lithium Alloys
+Alan J. Ardell1
+Submitted:28February2023/Accepted:21March2023/Publishedonline:3June2023
+©TheAuthor(s)2023
+Abstract Data on the equilibrium solubilities of the α Al- 1 Introduction
+Lisolidsolutionphaseandtheorderedmetastableδ′Al Li
+3
+(L1 crystal structure) precipitate phase are critically One would think that after many decades of research[1–4]
+2
+reviewed, and a new binary alloy phase diagram is pro- undertaken with the intent of commercializing aluminum–
+posed. The δ′ solvus, describing the equilibrium solubility lithiumbasealloysowingtotheirlowerdensityandhigher
+ofLiintheαphase,Xαe ,inatomfractionLi,isgivenbythe stiffness with lithium in solid solution, not to mention the
+equation X ae ¼ 0:60086 expf(cid:2)8669:55=RTg; where R is increased strength concomitant with precipitation of the
+the gas constant, and the temperature T is in K. The α metastable ordered δ′ (Al Li) phase, we would have by
+3
+solvus, i.e. the equilibrium solubility of Li in the δ′ phase, now secure knowledge of the Al-rich region of the
+Xδ′e , is given by the equation X d0e ¼ 0:1809 þ 6:413(cid:3) underlying binary Al-Li phase diagram. After all, this
+10(cid:2)4T(cid:2)1:861 (cid:3) 10(cid:2)6T2 þ 1:4684 (cid:3) 10(cid:2)9T3; which phase diagram serves as the basis for exploring the effects
+represents a compromise between previously published of assorted alloying additions. Despite its importance, it is
+theoretical curves that predict retrograde behavior. It is fair to state that the locations of the phase boundaries
+emphasized that that all the data cited and re-analyzed
+separatingthe2-phaseα+δ′regionofthemetastablephase
+exclusively involve binary Al-Li alloys. The new phase
+diagramareimprecise.Thisisevidentonviewingtheα+δ′
+diagram eliminates data that were previously mis-at- regions of two phase diagrams shown in Fig. 1, one being
+tributed. Most importantly, it is informed by considerable the most recent thermodynamic assessment of the entire
+re-analysis of previously published data, supplemented by Al-Li alloy system by Hallstedt and Kim[5], and the other
+the inclusion of data that were not previously considered, by Neibecker et al.[6] who investigated the early stages of
+and eschews data on both Xαe and Xδ′e that are indubitably precipitationinaternaryAl-Li-Cualloy.Thescatterinthe
+non-equilibrium in nature. locations of the phase boundaries in Fig. 1 is quite
+palpable.
+Keywords aluminum lithum alloys · binary Al-Li phase It is obvious on comparing the 2 phase diagrams in
+diagram · critical assessment · phase equilibria Fig. 1 that they do not both include identical sets of data.
+TheextensivedatasetpublishedbyNobleandBray[7]was
+notincludedinFig.1(a)andthedataofLivetandBloch[8]
+and Mergia et al.,[9] which are both represented by the
+same plotting symbol in Fig. 1(b), were also excluded in
+Fig. 1(a). On the other hand, the data of Tsao et al.[10]
+shown in Fig. 1(a) are not present in Fig. 1(b). Addition-
+& AlanJ.Ardell ally, solubility limits attributed to Papazian et al.[11] are
+aardell@ucla.edu presentedinFig.1(a);Papazianetal.themselvespointout
+that the data in their Fig. 1 were taken from the literature,
+1 DepartmentofMaterialsScienceandEngineering,Henry
+which is easily confirmed in a nearly identical figure pub-
+SamueliSchoolofEngineeringandAppliedScience,
+UniversityofCalifornia,LosAngeles,CA,USA lished previously by Sigli and Sanchez[12]. There is one
+123
+
+===== PAGE 2 =====
+256 J.PhaseEquilib.Diffus.(2023)44:255–268
+f e ¼ X X d 0 0e (cid:2) (cid:2) X X a a e e ðEq 1Þ
+where Xαe andXδ′e aretheequilibrium compositionsofthe
+α and δ′ phases, respectively. The magnitude of f plays a
+e
+crucial role in the precipitation strengthening of Al-Li
+alloys by δ′ precipitates[15], as well as in the coarsening
+behavior of δ′ precipitates in these alloys[16,17]. The
+uncertainty in calculating f is illustrated in Fig. 1 using a
+e
+hypotheticalalloycontaining10at.%Liagedat425K(all
+Liconcentrationsinthispaperwillbeexpressedasat.%or
+atomfraction).Thegreenhorizontallinesandshadedthick
+lines in Fig. 1(a) and (b) represent the minimum and
+maximum possible values of ΔX
+e
+=Xδ′e −Xαe , respectively.
+Thedisparitiesarequitelarge,varyingfrom0.23to0.29in
+Fig. 1(a) and from0.24 to0.28 in Fig. 1(b). The new
+evaluationofthephaseboundariesresultingfromthiswork
+provides, among other things, guidance for calculating f
+e
+confidently and reproducibly.
+2 Re-evaluation of Published Data on Solubility
+Fig. 1 Two versions of the Al-Li phase diagram, illustrating the Limits
+equilibrium compositions of the α (Al-Li) solid solution matrix and
+themetastableδ′(Al Li)precipitates:(a)Thermodynamicassessment
+3 2.1 Data Handling and Processing
+ofHallstedtandKim[5];(b)CompilationofdatabyNeibeckeretal.[6].
+Thefigurein(a)hasbeencompressedtoequalizetheordinatescales
+inbothfigures.Theregionswithinthe2-phasefieldin(b)represent Much of the data re-analyzed herein were originally pre-
+the calculated results of the BMG model of Khachaturyan et al.[14]. sented in graphical form, necessitating extraction from
+The original attributions associated with the plotting symbols have
+published figures. In most cases the axes in the original
+beenremovedforclarity,butseveralremainidentified[7–11,13]
+figures were truly orthogonal and parallel to the edges of
+additional set of data in Fig. 1(b) by Pitcher et al.[13] on a the computer screen. However, there were exceptions
+ternary Al-Li-Cu alloy; the solubility limits disagree sig- where the axes were rotated, and in some cases non-
+nificantly at low temperatures. The intent herein is not to orthogonal. In these circumstances the rotations and non-
+heap criticisms on the work of Hallstedt and Kim[5] and orthogonalitywereeasilyrectifiedusingAdobePhotoshop.
+Neibeckeretal.[6],butinsteadtopointoutthattheattempt Data were then extracted from the processed images using
+to acquire data on the equilibrium solute concentrations of the software WebPlotDigitizer, which does a respectable,
+theαandδ′phasesisfraughtwithshortcomings.Itisfully though imperfect, job of reproducing the data. Final pro-
+appreciated that the compilation of Neibecker et al.[6] was cessing was done by superimposing a transparent copy of
+notintendedasacriticalreviewoftheliteraturebutinstead theimageusedfordataextractionontoaplotgeneratedby
+a straightforward reporting of results published by the Microsoft Excel, scaled so that the axes of the plots
+authors ofthe various investigations. HallstedtandKim[5], overlappedtothemaximumextentpossible.Thenumerical
+on the other hand, certainly had access to all the data valuesintheindividualcellsinExcelwerethenadjustedso
+ignoredinFig.1(a),sothereasonfortheirexclusionisnot that the data points in the Excel plot overlapped those in
+clear.Mostimportantly,itisevidentonexaminingthedata the transparent figure. Perfect reproduction was nearly
+inFig.1thattheequilibriumconcentrationsbetweentheα impossible due to irregularities in the scales, unusual
+and δ′ phases are either incomplete or inaccurate, thereby plotting symbols in the original figures and small errors in
+justifying a new and critical evaluation. the authors’ original locations of the symbols. Despite
+Imagine now the conundrum in attempting to calculate these minor shortcomings the results were reasonably
+the equilibrium volume fraction, f , of δ′ precipitates in an accurate, with accuracy that was relatively easy to assess
+e
+alloy of given initial composition X at a specific temper- (for example by comparing the slopes and intercepts of
+0
+ature,T,usingtheleverrule.Ignoringthesmalldifferences extracted data on kinetics with those reported by the
+between the mass densities of the α and δ′ phases, f is authors).
+e
+given by the equation
+123
+
+===== PAGE 3 =====
+J.PhaseEquilib.Diffus.(2023)44:255–268 257
+Numerous methods were used by a plethora of 2.2 The α- δ′ Phase Diagram
+researchers and groups to obtain data on the equilibrium
+concentrationsoftheαandδ′phases.Insomeinstancesthe The main product of this research effort is presented in
+results of the research were accepted herein without addi- Fig. 2. The data shown are the results of 20 investiga-
+tional data processing, but in many cases it was necessary tions[7–10,18–33]. The acceptable data on the δ′ solvus were
+to re-evaluate the original analyses to obtain more mean- fitted to an Arrhenius-type equation, yielding the result
+ingful results. As noted earlier, only data on binary Al-Li X ae ¼ 0:60086 expf-8;669:55=RTg; ðEq 2Þ
+alloys were considered.
+This paper is organized as follows. The new phase where R is the gas constant. Equation 2 specifies a heat of
+diagram ispresentedattheoutset,withthesourcesofdata solution of8.67 kJ/mol, which is about 5.5% smaller than
+identified. Each contribution is discussed later so that the the value 9.18 kJ/mol reported by Noble and Bray[7]. It is
+reader can appreciate the decisions taken to evaluate the importanttopointoutthatnotallthedatawereincludedin
+data.Numericaldescriptionsofthephaseboundaries(theδ′ the fit. In particular, the data indicated by the small sym-
+andαsolvuscurvesdescribingtheequilibriumsolubilityof bols (which are color-coordinated with the corresponding
+Li in the α phase and the δ′ phase, respectively) are also largerones)wereexcluded,primarilybecausetheydeviate
+providedtoenableinputforthebestpossibleestimatesoff substantially from the clusters of data points near the
+e
+as a function of initial alloy composition and aging tem- ultimate solubility curve favored in this investigation (the
+perature. After closing comments and conclusions, all the black curve). Additionally, the data of Ceresara et al.[20],
+data are presented in tabular form in the Appendix. Cocco et al.[21] and Khushaim et al.[32] were excluded for
+reasons discussed later.
+It is plainly evident in Fig. 2 that the δ′ solvus curve
+calculated by Khachaturian et al. (red)[14] is in quite good
+Fig.2 TheAl-richregionofthe
+Al-Al Liphasediagram
+3
+resultingfromthiswork.The
+Legendidentifiestheauthorsof
+thedatainchronologicalorder:
+Tamuraetal.[18],Williamsand
+Edington[19],Ceresaraetal.[20],
+Coccoetal.[21],Nozatoand
+Nakai[22],JensrudandRyum[23],
+LivetandBloch[8],Baumann
+andWilliams[33],Fujikawa
+etal.[24],Sungetal.[25],Liuand
+Williams[26],Liuand
+Williams[27],Shaiuetal.[28],
+Jo[29],Abisetal.[30],DelRio[31],
+NobleandBray[7],Mergia
+etal.[9],Tsaoetal.[10]and
+Khushaimetal.[32].Inaddition,
+thetheoreticallypredictedδ′
+andαsolvuscurvesdueto
+Khachaturyan[14]andHallstedt
+andKim[5]arealsoincluded,as
+wellastheempiricalcurves
+fromthisinvestigation.Thedata
+identifiedusingthesmall
+symbolswereexcludedfromthe
+fittotheδ′solvuscurve,Eq2,
+anddeviatesignificantlyfrom
+mostofthedataonthe
+temperaturedependenceofthe
+αsolvus
+123
+
+===== PAGE 4 =====
+258 J.PhaseEquilib.Diffus.(2023)44:255–268
+overallagreementwiththeexperimentaldata,especiallyin 2.3 Comments on the Contributions to the Phase
+the important mid-temperature region from 400 to 600 K; Diagram
+theirheatofsolutionis9.07kJ/mol.Theδ′solvuscurveof
+Hallstedt and Kim (green)[5] also agrees reasonably well The methods used to measure the equilibrium concentra-
+with the data and heat of solution,8.88 kJ/mol, though the tions of the α and δ′ phases were quite varied. Five
+predicted solubility of δ′ is slightly larger in the mid-tem- employed small-angle x-ray scattering (SAXS)[8,10,20,21,28]
+perature region. There are two other theoretical δ′ solvus and two used small-angle neutron scattering (SANS)[9,30].
+curves reported in the literature, one by Chen et al.[34] and Electrical resistivity was measured as a function of aging
+the other by Mao et al.[35]. Both agree reasonably well in time in three experiments[7,24,29], two experiments used
+themid-temperatureregioninFig.2,buttheyareexcluded calorimetric measurements[7,22], x-ray diffraction
+to reduce clutter in the figure. Most recently, Liu et al.[36] (XRD)[18,26], electron energy-loss spectroscopy
+andShaoetal.[37]havepublishedpapersonfirst-principles (EELS)[25,27] or conventional transmission electron
+predictions of the Al-Li phase diagram, but their compar- microscopy (TEM)[19,23] and single experiments involving
+isons with experimental data in the Al-rich α-δ′ region are quantitative metallography (QM)[26], positron annihilation
+superficial, both papers citing early phase boundaries spectroscopy (PAS)[31] or atom probe tomography
+reported by Gayle and Vander Sande[38]. (APT)[32] were reported. As we shall see, the results of
+As is apparent in Fig. 2, when it comes to the α solvus quite a few experiments were based on measurements of
+thereisunfortunately fartoomuchscatterinthedatatofit the instantaneous volume fraction, f, not necessarily f ,
+e
+a meaningful curve. Though one would be hard pressed to from which either Xαe or Xδ′e was nevertheless estimated,
+findanexampleinpreviouslypublishedliterature,thereare assuming that the other was already known. It should be
+evenconcentrationsofδ′thatexceed25%Li.Thereisnoa obvious that the most accurate temperature-dependency
+priori reason why excess Li should be forbidden in the δ′ possibleofXαe isneededifmeaningfulvaluesofXδ′e areto
+phase,butithasnotappearedinpriorwork,asisevidentin be extracted from measurements of f , and vice versa. The
+e
+Fig.1.Thereasonswhythishashappenedinthisstudywill results of several of those experiments necessitated re-
+be exposed when the relevant data are discussed. Despite analysis of the original data.
+the large scatter, the α solvus curves from the models of
+Khachaturyan et al.[14] and Hallstedt and Kim[5] are in 2.3.1 Electrical Resistivity Measurements
+quite reasonable agreement with the middle range of data.
+Theredoesnotappeartobeapreferenceenablingachoice Fujikawa et al.[24], Jo[29] and Noble and Bray[7] monitored
+between the two theoretical curves, and it is evident that the temporal dependence of the electrical resistivity, ρ, of
+only one should be used for the purpose of calculating f . theAl-Lisolidsolutionduringcoarseningtoobtainavalue
+e
+Tothisendit seems besttocompromisebycomputing the of Xαe . The method exploits the typical linear relationship
+average of the two theoretical curves. The equation between ρ and Xα as a calibration curve and utilizes the
+describing this average is temporal dependence of Xα during diffusion-controlled
+d0e ¼ 0:1809þ6:413(cid:3)10(cid:2)4T(cid:2)1:861(cid:3)10(cid:2)6T2 þ1:4684 coarsening, i.e.
+(cid:3)10(cid:2)9T3; X a ¼X aeþ ðktÞ(cid:2)1=3 ðEq 4Þ
+ðEq 3Þ
+where κ is a rate constant that depends on the thermo-
+physical parameters of the alloy system. Measurements of
+whichisrepresentedbythesolidblackcurveinFig.2.For
+the sake of completeness the equations describing the
+ρ are converted to Xα, plotted versus t–1/3 and extrapolated
+solves curves of Hallstedt and Kim[5] and Khachaturyan to t–1/3=0 to obtain a value of Xαe for a given initial alloy
+et al.[14] are presented in Table 1. concentration and aging temperature. It is apparent
+immediately on viewing Fig. 2 that the values of Xαe
+measuredbyFujikawaetal.[24]andJo[29]aremuchsmaller
+than the other data in the temperature range 400 to 550 K.
+Table1 Theempiricalδ′andα
+Author Solvuscurve Equation
+solvuscurvesextractedfromthe
+p
+an
+u
+d
+bl
+K
+ish
+im
+ed
+[5]
+fi
+a
+g
+n
+u
+d
+re
+K
+s
+h
+o
+a
+f
+c
+H
+ha
+a
+t
+l
+u
+ls
+r
+t
+y
+e
+a
+d
+n
+t HallstedtandKim δ′ Xαe =0.68885exp{–8,876.23/RT}
+etal.[14] α Xδ′e =0.1869+6.0104910–4T−1.769910–6T2+1.3768910–9T3
+Khachaturyanetal δ′ Xαe =0.70189exp{–9062.89/RT}
+α Xδ′e =0.1749+6.8163910–4T−1.953910–6T2+1.5599910–9T3
+123
+
+===== PAGE 5 =====
+J.PhaseEquilib.Diffus.(2023)44:255–268 259
+Factorsthatcouldaffecttheaccuracyofthemeasurements alloys, but only Liu and Williams reported values of f for
+e
+aredifferencesinthecalibrationcurvesusedbythevarious their combinations of initial alloy concentration and aging
+authors, but the differences were relatively small, as noted temperatures.
+by Noble and Bray. More likely, as also noted by Noble Tamura et al.[18] measured the kinetics of volume frac-
+andBray,wasthefailureofFujikawaetal.[24]andJo[29]to tion augmentation in a 10.73% Li alloy aged at 473 K.
+takeintoaccountthecontributiontoρfromtheprecipitates Theymeasuredtheintensityratiosofthe(300)superlattice
+and the possible appearance of stable δ phase1 particles in and (400) fundamental reflections to obtain f as a function
+the microstructures, which were not examined by those of aging time. They did not report values of either Xαe or
+authors. Therelativelyhigh aging temperaturesand longer Xδ′e andwerenotawarethattheycouldobtainavalueoff
+e
+aging times used inthe experimentsofFujikawa et al. and at this temperature by analyzing the kinetics of volume
+Jo would have exacerbated the problems by promoting the fraction augmentation. The data of Tamura et al. are ana-
+transformation of δ′ to δ. lyzed herein in precisely that way to obtain f for their
+e
+alloy.Thekineticsofvolumefractionaugmentationfollow
+2.3.2 Calorimetric Measurements the equation[39,40]
+ðjtÞ(cid:2)1=3
+Nozato and Nakai[22] and Noble and Bray[7] used some- f ¼f e(cid:2)
+DX
+; ðEq 5Þ
+what different calorimetric procedures to obtain data on e
+Xαe , the former measuring specific heats during heating of whereΔX
+e
+=Xδ′e−Xαe .AccordingtoEq5aplotoffversust–
+all specimens at the same rate and the latter using differ- 1/3 should be linear in the late stages of coarsening and
+ential scanning calorimetry involving heating at different extrapolatetof att–1/3=0(t=∞).ThedataofTamuraetal.
+e
+rates. Both investigations monitored the temperatures at areplottedinthismannerinFig.3,resultinginf =0.2539;
+e
+which peaks in the heating curves disappeared to zero as it is evident that linearity expected for the late-stage
+thesolubilitylimitsforanalloyofgivencompositionwere kinetics is quite good, with a correlation coefficient R2=
+approached.Thedatafromthetwoinvestigationsarequite 0.9826. Application of Eq 1, with Xαe calculated using
+consistent,thetwoexceptionsbeingratherlowequilibrium Eq2,producestheresultXδ′e =0.2314.ThisvalueofXδ′e is
+concentrations measured by Nozato and Nakai[22] corre- a new addition to the data on the Al-Li phase diagram.2
+sponding to 505 and 510 K; these data are excluded from Liu and Williams[26] relied upon suitably long aging
+the fit in Fig. 2. times at two temperatures for their XRD experiments,
+428Kfor4monthsand498Kfor4days.Theassumption
+2.3.3 TEM Observations of δ′ Precipitation in Aged thatf=f isimplicitintheseagingtreatments.Similartothe
+e
+Specimens procedure used by Tamura et al., Liu and Williams mea-
+sured the intensity ratios of the (300) and (400) reflections
+Williams and Edington[19] and Jensrud and Ryum[23] con- to obtain values of f , which they reported as 0.370 and
+e
+ducted aging experiments on binary alloys to explore, 0.346at428and498K,respectively.Usingthesevaluesof
+among other things, the temperatures at which δ′ precipi- f in conjunction with Eqs 1 and 2, the resulting values of
+e
+tates were or were not observed. If coherent spherical δ′ Xδ′e at 428 and498 Kare 0.2537 and 0.2271,respectively.
+precipitates were present in the microstructure the aging These results differ significantly from those reported by
+temperature was deemed below the δ′ solvus for a partic- Liu and Williams (0.241 and 0.233) undoubtedly because
+ular overall alloy composition. If not, the aging tempera- the values of Xαe used in their calculations differ signifi-
+ture was above the δ′ solvus. Using aging temperatures in cantlyfromthosecalculatedusingEq2.ThefactthatXδ′e =
+intervals of 10 K in both studies, the δ′ solvus was brack- 0.2537 at 428 K exceeds 0.25 might raise some eyebrows,
+eted to within±5 K of uncertainty. but there is nothing in principle to prevent the concentra-
+tion of the δ′ phase from exceeding 25 at.% Li.
+2.3.4 XRD Experiments Liu and Williams[26] also presented a datum on a mea-
+surement of Xδ′e made using a value of f
+e
+determined from
+The magnitude of the intensity ratios of superlattice and TEM-basedQMonaspecimencontaining7.9%Liagedat
+fundamental x-ray reflections in aged 2-phase α+δ′ alloys 493K.Theirreportedvalueoff
+e
+is0.072,whichyieldsXδ′e
+provides a direct measurement of f. Tamura et al.[18] and =0.1628usingEq1and2.Thisconcentration,thesmallest
+Liu and Williams[26] used somewhat nearly identical ofanyevaluatedfortheδ′phase,isdueentirelytothefact
+approachestomeasurefusingXRDinseveralbinaryAl-Li
+2 *LiuandWilliams[26]estimatedavalueofX’e ≈0.22fromthedata
+1 † The phase, AlLi, with the NaTl, B32, crystal structure, is the of Tamura et al., but did not provide the details leading to this
+phaseinstablethermodynamicequilibriumwiththesolidsolution. estimate.TheyreportedX =0.201.
+e
+123
+
+===== PAGE 6 =====
+260 J.PhaseEquilib.Diffus.(2023)44:255–268
+Williams[27]werereportedinthetextoftheirpaperasXδ′e
+=0.236, 0.218 and 0.205 at T=428, 498 and 563 K,
+respectively. To check the influence of their specimen
+preparation procedures on Xα, Liu and Williams also used
+EELS to measure the Li concentration in the matrix of a
+specimen containing 12.7% Li aged for 4 h at 563 K. The
+result was 8.8% Li. Perhaps 4 h of aging at 563 K is not
+quite long enough to attain thermodynamic equilibrium,
+but Xα should be close enough to Xαe to add this value to
+the δ′ solvus. Therefore, the datum Xαe =0.088 at 563 K is
+included in Fig. 2; it is a new entry to the phase diagram.
+2.3.6 Small-Angle x-ray Scattering (SAXS) Experiments
+Theveryfirstmeasurementsoftheδ′solvuscurvewerethe
+Fig. 3 The data of Tamura et al.[18] plotted as volume fraction, f,
+products of SAXS experiments conducted by Ceresara
+versus aging time, t, raised to the –1/3 power, for consistency with
+Eq5.Thelate-stagecoarseningdatashowthatfislinearlyrelatedto et al.[20] The integrated intensity, Q 0 , of SAXS scattering
+t–1/3. The shorter-time data are shown in black symbols. The curves from a specimen containing small precipitates pro-
+equilibrium volume fraction, f e , is obtained by extrapolation to t–1/3 vides data on the volume fraction and sizes of the precip-
+=0,asshown.
+itates[41].Q canbepredictedtheoreticallyasafunctionof
+0
+t t h h a a t n X th α e e v c a a l l u c e ul o a f te X d αe u , s 0 i . n 0 g 70 E , q us 2 ed , 0 b . y 07 L 2 iu 5, an is d s W lig il h li t a ly ms la . r T g h e e r a
+t
+f
+h
+n o
+e
+d r
+m
+i X t
+m
+s δ′ c
+u
+a o
+s
+r
+t
+n e s
+b
+t u
+e
+it n u
+a
+k e
+s
+n n
+s
+o
+u
+t w
+m
+co n
+e
+m
+d
+to p
+to
+o b n
+a
+e e
+s
+g n
+c
+i t
+e
+n s
+r
+,
+t
+w
+a
+X
+i
+i
+n
+0 t , h
+t
+X ,
+h
+α
+e
+th a
+v
+e n
+a
+d
+l
+v
+u
+a X
+e
+lu δ
+o
+′ e .
+f
+I o
+t
+f
+h
+f b
+e
+o o
+o
+n th
+t
+e
+he
+X o
+r
+α f
+.
+upshot of this discrepancy illustrates the perils of calcu-
+This was the task undertaken by Ceresara et al. They
+lating an equilibrium concentration from a measured vol-
+acquiredtheSAXSspectrafromanalloycontaining6.72%
+umefractionwhenthedifferencebetweentheoverallalloy
+Li aged under five conditions: 200 h at 293 K (room
+solute concentration and the equilibrium matrix solute
+temperature);24hat398K;24and112hat423K;24hat
+concentration is small; i.e. X
+0
+−Xαe =0.079−0.070=0.009
+473 K. Q is related to the concentrations of the phases in
+(LiuandWilliams[26]),cf.X
+0
+−Xαe =0.079–0.0725=0.0065
+the alloy
+0
+by an equation due to Gerold[42], namely
+(this investigation). The calculation of Xδ′e is particularly
+perilous when Xαe is not known with sufficient accuracy. Q 0 ¼ ðX d0 (cid:2)X 0ÞðX 0(cid:2)X aÞðZ Al(cid:2)Z LiÞ 2=V ave ; ðEq 6Þ
+whereZ andZ aretheatomicnumbersofAlandLiand
+2.3.5 Experiments Using EELS Al Li
+V is the average volume per atom in the alloy.
+ave
+With no better option available to them, Ceresara
+InprincipleEELSmeasuresthechemistryofphasesinthe
+TEM.InAl-Li alloys thisspecialized techniqueis difficult
+et al.[20] assumed Xδ′=Xδ′e =0.25 to estimate Xα from their
+measured values of Q . They reported their results in tab-
+toimplementforavarietyofreasonsdiscussedbyLiuand 0
+ularform.TheyareshowninFig.2butarenotincludedin
+Williams[27], but it has several advantages for the quanti-
+the fit to the data on the δ′ solvus because the aging times
+tative analysis of phases containing light elements. The
+wereshortandtheconcentrationsfarfromthermodynamic
+method is most accurate when it can be assured that the
+equilibrium, especially at the lower aging temperatures.
+phase in question occupies the entire thickness of the thin
+This shortcoming was also noted by Tsao et al.[10]
+foilspecimen,whichmeansthattheδ′precipitatesmustbe
+FollowingtheworkofCeresaraetal.[20],Coccoetal.[21]
+through-thickness.EELScontributedfivedatapointstothe
+realized that when alloys of two different compositions,
+Al-Liphasediagram,fourbyLiuandWilliamsandoneby
+X and X , are aged at the same temperature Eq 6
+Sung et al.[25] 01 02
+Sungetal.reportedtheratioofAltoLiintheirthrough-
+becomes 2 equations with 2 unknowns, Xα and Xδ′, which
+thicknessδ′particleas3.6to1,resultinginanapproximate
+must be identical and equal to Xαe and Xδ′e at the single
+aging temperature of the experiment. The same method
+concentration of 22% Li. Since the reported error in their
+wasusedbyGerold[42]todeterminethesolubilitylimitsat
+measurement was±20% this approximate concentration
+room temperature in Al-Zn alloys. The benefits of the
+wasdeemedacceptable.Itseemsherethatthereisnoharm
+done in reporting the more accurate concentration of
+approachofCoccoetal.aremanifestbecausevaluesofXδ′
+are also included in the results. Since the aging tempera-
+21.74%Li,soXδ′e =0.2174istheconcentrationthatappears
+turesandtimesusedbyCoccoetal.wereidenticaltothose
+in Fig. 2. The δ′ compositions measured by Liu and
+used by Ceresara et al.[20] the compositions, especially Xα,
+123
+
+===== PAGE 7 =====
+J.PhaseEquilib.Diffus.(2023)44:255–268 261
+Fig. 4 Illustrating the graphical procedure based on Eq 7 for 0.105 are shown in (a) and (b) respectively. A slight adjustment of
+determining Xαe and Xδ′e from data on integrated intensity, Q
+0
+(∞), Q
+0
+(∞),from5.2910–3to5.43910–3enabledtheintersectionofthe3
+measured at the same temperature for 2 or more alloys of different curvesin(b),leadingtotheresultsontheequilibriumsolubilitiesat
+compositions, X . The data on 3 alloys with X =0.075, 0.090 and 423KreportedinTable1
+0 0
+at the lower aging temperatures are far from equilibrium.
+Table2 ThedataofLivetandBloch[8]re-evaluatedusingthemethod
+This is not the case for Xδ′, since the compositions of
+ofCoccoetal.[21]embodiedinEq7.TheadjustedvalueofQ (∞)was
+precipitate phases after short aging times are close to their 0
+chosentobringthe3curvesinFig.4(b)intocoincidence,leadingto
+equilibriumvalues[43].ThedataofCoccoetal.onXαwere
+thevaluesofXαe andXδ′e showninthe5and7throwsofthetable
+notincluded in the δ′solvus fit, for this reason, though the
+T,K 423 453
+values are shown in Fig. 2. It is evident in Fig. 2 (see also
+X 0.075 0.090 0.105 0.075 0.105
+Table 7) that the values of Xα reported by Cocco et al. 0
+Q , Original 0.00520 0.00739 0.00890 0.00303 0.00610
+differ only slightly from those of Ceresara et al. ∞ 0
+Adjusted 0.00543
+Livet and Bloch[8] investigated the kinetics of precipi-
+tationbySAXSin3binaryAl-Lialloyscontaining7.5,9.0
+Xαe LivetandBloch 0.0440 0.0530
+Thisinvestigation 0.0442 0.0551
+and 10.5% Li aged at 423 and 453 K. They reported the
+composition of the 10.5% Li alloy as 11% Li, but subse-
+Xδ′e LivetandBloch 0.2420 0.2190
+quent publications by Bley et al.[44,45] clearly indicate that Thisinvestigation 0.2514 0.2272
+the composition was in fact 10.5%, which is the compo-
+sitionused inthesubsequentanalysisinthissection.Livet value of Q (∞). On solving Eq 6, sans the factor (Z
+0j Al
+a
+(Z
+nd
+−
+B
+Z
+loc
+)2
+h
+/V
+sim
+.
+pli
+L
+fi
+i
+e
+v
+d
+et
+and
+an
+r
+d
+e-d
+B
+efi
+lo
+n
+c
+e
+h
+d E
+a
+q
+na
+6
+ly
+b
+z
+y
+ed
+div
+t
+i
+h
+d
+e
+in
+ir
+g i
+d
+t
+a
+b
+t
+y
+a
+−Z
+Li
+)2/V
+ave
+, for Xα, we can write
+a id s e s A u n l m tic i L a n i l g , l t i h n a e v e e a te rl m y p d o e r p al en d d e e p n e t nd o e n nc t– ie 1/ s 3 o a f s X in α a E n q d 4 Q , 0 w t i o th be a X a ¼ Q 0jð1Þ X þ 0j(cid:2) X 0 2 X j (cid:2) d0 X 0j X d0: ðEq 7Þ
+t a i n m “ e e -i q n u d i e li p b e r n iu d m en ” t v X a δ l ′ u . e E o x f tr Q ap 0 o (∞ la ) tin fr g om Q 0 w (t h ) i t c o h t v –1 a / l 3 u = e 0 s o y f ie X ld α s e ver I s f u d s a X ta δ′ o w n ill tw in o te a r l s l e o c y t s a a t r a e p a o v i a n i t la r b ep le re ( s j e = n 1 ti ,2 n ) g c X u α r e v a e n s d o X f δ X ′e α .
+canbeobtainedateachagingtemperature,assumingXδ′e is
+If data on three alloys are available (j=1,2,3) all three
+known. Livet and Bloch report 2 values of Xδ′e =0.242 at
+curvesofXαversusXδ′willintersectatthesamepoint,with
+423Kand0.219at453K,andcitetwosources,butdidnot
+the same significance.
+specify the references in their paper. Their reported values
+The procedure is illustrated in Fig. 4, using the original
+of Xαe are 0.044 at 423 K and 0.053 at 453 K. dataofLivetandBlochonQ (∞)presentedinTable2.We
+0
+It is possible to obtain more reliable values of Xαe and
+seeinFig.4(a)thatthecurvesofXαversusXδ′generatedby
+Xδ′e fromthedataofLivetandBlochbyre-analyzingtheir
+Eq 7 (T=423 K) do not intersect at the same point when
+data more realistically, as done by Cocco et al.[21] The Q (∞)=0.00520. Instead, there are 3 intersections, all at
+expectation is that using the tabulated values of Q (∞) 0
+0 concentrations of Xδ′ exceeding 25% Li. Since the data on
+reported by Livet and Bloch, we should find the equilib- Q versus t–1/3 for the 7.5% Li alloy aged at 423 K are
+rium compositions of both the α and δ′ phases indepen- 0
+clearly non-linear, as opposed to the data on the other 2
+dently. The easiest way to proceed is to process the
+alloys(seeFig.5,LivetandBloch).Nevertheless,itcanbe
+necessary data graphically. At any given temperature the inferred[8] that the values of Q (∞) for the 7.5% Li alloy
+0
+analysis from data on kinetics from an alloy of initial were obtained from plots of Q versus t–1/3 for the data
+composition X will produce, from a plot of Q vs t–1/3, a 0
+0j 0j taken at both temperatures. Only a small adjustment of
+123
+
+===== PAGE 8 =====
+262 J.PhaseEquilib.Diffus.(2023)44:255–268
+Table 3 Results of the re-examination of the data of Tsao et al.[10]
+The data in the rows labelled This Work stem from the volume
+fractions,f,obtainedbyextrapolationoftheplotsinFig.5
+e
+T,K f
+e
+Xαe Xδ′e
+423 Tsaoetal 0.166 0.48 0.233
+Thiswork 0.1661 0.0489 0.2303
+433 Tsaoetal 0.141 0.052 0.243
+Thiswork 0.1416 0.0543 0.2289
+443 Tsaoetal 0.184 0.044 0.233
+Thiswork 0.1839 0.0456 0.2274
+The values of Xδ′e were calculated using Eq 3, after which Xαe was
+calculatedusingEq1,asexplainedinthetext.Thedataintherows
+labelledTsaoetal.containtheiroriginalresults
+Fig.5 ThedataofTsaoetal.[10]onthekineticsofvolumefraction
+Xδ′e ,thenEq1tocalculateXαe .Theresultsaresummarized
+augmentation plotted as f versus t–1/3, as in Fig. 3, prescribed by in Table 3.
+Eq (5). The equilibrium volume fractions, f, are determined by the It is evident in Table 3 that the equilibrium volume
+e
+extrapolating the curves to t–1/3=0. The datum encircled was fractionsobtainedfromtheplotsinFig.5areinverygood
+publishedinanearlierpaperbyTsaoetal.,[47]butwasnotincluded
+agreement with those reported by Tsao et al., but the
+inthefit.TheresultsarereportedinTable3
+derived values of Xαe and calculated values of Xδ′e differ,
+thoughinafewcasesthedifferenceisquitesmall.Twoof
+Q
+0
+(∞) from 0.00520 to 0.00543 (Table 1) is needed to the three values of Xαe (423 and 433 K) are in excellent
+rectify this situation, as seen in Fig. 4(b), which shows the agreement with the data on the δ′ solvus curve (Fig. 2).
+curvesforall3alloysintersectingataconcentrationofXδ′e Unfortunately, the much larger value of the volume frac-
+=0.2514. The value of Xαe at 423 K turns out to be only tion at 443 K is clearly erroneous, given that f
+e
+must
+slightly larger than that reported by Livet and Bloch. decrease with increasing temperature. In this context it
+Applyingthesame approachtothedataonagingat 453K shouldbenotedthatthelinearfitstotheplotsoffversust–
+yields significant differences in the values of Xαe and Xδ′e , 1/3 are all fairly poor, none more so than the 3-point fit to
+as shown in Table 2. All the equilibrium concentrations the 443 K data. Additionally, Tsao et al. chose to ignore
+from this investigation are presented in Fig. 2. one data point from their measurements at 433 K[47] (see
+ThefinalcontributionintheSAXScategorystemsfrom Fig. 5) without explanation. Their result[10] is nevertheless
+the work of Tsao et al.[10] They analyzed data on the accepted here, giving them the benefit of the doubt.
+kinetics of average particle growth and volume fraction
+augmentation to obtain values of Xαe and Xδ′e in an alloy 2.3.7 Small Angle Neutron Scattering (SANS) Experiments
+containing 7.9% Li aged at 423, 433 and 443 K. Their
+analysis utilizes an equation describing the kinetics of There are two contributions in this category, the first by
+particle evanescence, i.e. the decrease in the number den- Abisetal.[30]andalateronebyMergiaetal.[9].Abisetal.
+sity,N ,withagingtime[46],thatrequiresseveralnecessary investigated the kinetics of δ′ precipitation in a binary Al-
+v
+assumptionsinordertoextracttheequilibriumsolubilities. 10.73% Li alloy aged at 463 K. They reported tabulated
+AfarmoresatisfactoryapproachtoacquirethedataonXαe data on several variables, including the volume fraction as
+is to use their data on volume fraction augmentation, in afunctionofagingtimefrom1to90h.Thedependenceof
+conjunction with Eqs 3 and 1. This procedure produces f on t is essentially constant, independent of t–1/3, with an
+revisedvaluesofXαe ,addingtotheδ′solvus,buteliminates average value of 0.2413 and a very small standard devia-
+their data on the α solvus. tion of±0.0063. Accordingly, it is assumed here that Xαe
+ThedataofTsaoetal.onthekineticsofvolumefraction can be computed using Eq 1 after having calculated Xδ′e =
+augmentationareshowninFig.5,plottedasfversust–1/3in 0.2246 from Eq 3; the result is Xαe =0.070.
+accordancewithEq5,exactlylikethetreatmentofthedata The second of the two papers by Mergia et al.[9] pro-
+ofTamuraetal.[18]Thevaluesoff atthe3differentaging vides the source of data on the δ′ solvus. They measured
+e
+temperaturesaretheinterceptsoftheplots,fromwhichthe the kinetics of volume fraction augmentation in an alloy
+decisionwastakentocalculateXαe ,usingEq3tocalculate containing 8.9% Li aged at 363, 393, 423, 458 and 483 K
+foragingtimesupto600h.Thedataonfwereconvertedto
+123
+
+===== PAGE 9 =====
+J.PhaseEquilib.Diffus.(2023)44:255–268 263
+Table4 Theresultsofthere-analysesofthedataofMergiaetal.[9]
+Thevaluesoff wereobtainedbyextrapolatingthedatainFig.6tot–
+e
+1/3=0,afterwhichXαe wascalculatedusingEq1.Theoriginaldataof
+Mergiaetal.arealsoshown
+T,K Source 363 393 423 458 483
+f Mergiaetal 0.2150 0.2100 0.1990 0.1710 0.1050
+e
+Thiswork 0.2136 0.2261 0.2110 0.1770 0.1132
+Xαe Mergiaetal 0.0416 0.0430 0.0461 0.0536 0.0690
+Thiswork 0.0483 0.0464 0.0512 0.0597 0.0720
+the coarsening regime. They also reported data on f versus
+tat 363Kingraphical form over the entirerange of aging
+times, beginning at the nucleation stage. To update the
+results, the data on Xα versus t were extracted from the
+published figures and converted to values of f using Eq 1,
+withXδ′e =0.25.Theassumptionhereisthatthesevaluesof
+f were the original ones transformed by Mergia et al. to
+valuesofXαforanalysisusingEq1.Thisbeingthecase,it
+is then a simple matter to re-convert the original data on
+ftodataonXαagainusingEq1butcalculatingXδ′e forthe
+4 different aging temperatures using Eq 3. Two choices
+then remain to obtain the proper values of Xαe : 1. Plot
+fversust–1/3andextrapolatetheresultstot–1/3=0toobtain
+proper values of f
+e
+and then use Eq 1 to calculate Xαe ; 2.
+Plot the corrected values of Xα vs t–1/3 and extrapolate the
+data to t–1/3=0 to obtain Xαe directly. Both methods pro-
+ducethesameresult.Thechoiceherewastheformersince
+the dataonfversustat 363Kwere already available.The
+plotsareshowninFig.6andtheresultsaresummarizedin
+Table 4. The values of f
+e
+(with one exception) and Xαe are
+slightly larger than those reported by Mergia et al. and all
+the values of Xαe except for the datum on 363 K are
+included in the fit to the δ′ solvus in Fig. 2.
+2.3.8 Dissolution Experiments
+Fig. 6 The data of Mergia et al. on the kinetics of volume fraction
+augmentationplottedasfversust–1/3,asinFig.3,prescribedbyEq5. Theideabehinddissolutionexperimentsisstraightforward.
+The equilibrium volume fractions, f, are determined by the extrap- Alloys aged below the δ′ solvus will contain a typical
+e
+olatingthecurvestot–1/3=0.TheresultsarereportedinTable4.The coarsened δ′ microstructure. If specimens of the alloy are
+dataindicatedbytheblacksymbolswereexcludedfromthefitting
+re-agedatsuccessivelyhighertemperaturesforshorttimes
+the precipitates will normally grow, though their numbers
+Xα using Eq 1, assuming Xδ′e =0.25, independent of aging will decrease. Finally,if the specimens are aged above the
+time and aging temperature. The data on Xα versus t were solvus temperature the δ′ precipitates will disappear from
+thensubjectedtoaleast-squaresfitofEq5(notaplotofXα the microstructure. These types of experiments were
+versus t–1/3) to obtain Xαe ; the values were reported in undertaken by Baumann and Williams[33], Shaiu et al.[28],
+tabularform.ThemaindrawbackoftheanalysisofMergia
+DelR´ıoetal.[31]andKhushaimet al.[32]usingavarietyof
+et al. is the assumption that Xδ′e =0.25. It is possible to do techniques.
+better, as described below. Baumann and Williams[33] used TEM to investigate the
+Mergia et al. reported their data on Xα versus t in roles of capillarity and coherency strains on the reversion
+graphical form at 4 aging temperatures: 393, 423, 458 and of δ′ precipitates, copious quantities of which were pro-
+483K;thesedataarerepresentativeatlongagingtimes,in duced inan alloy containing7.9% Liaged initially for 2 h
+123
+
+===== PAGE 10 =====
+264 J.PhaseEquilib.Diffus.(2023)44:255–268
+d
+T
+a
+a
+t
+b
+a
+le
+of
+5
+K
+P
+h
+a
+u
+r
+s
+t
+h
+ia
+a
+l
+im
+sum
+et
+m
+a
+a
+l.
+r
+[
+y
+32]
+ofthe PulseEnergy(pJ) T,K ΔT \d[,nm Xα Xδ’ D,1019m2/s[32] D
+PL
+,1019m2/s[48]
+reportedinTables1and2of
+0 463.0 0 14.2 0.054 0.226
+theirpaper
+10 444.4 \0 13.4 0.059 0.217 1.6 0.074
+30 460.5 \0 12.8 0.062 0.210 4.9 0.220
+40 468.0 [0 12.4 0.065 0.205 8.1 0.357
+50 480.6 [0 11.5 0.070 0.200 18.0 0.780
+60 490.3 [0 10.6 0.072 0.199 32.4 1.38
+80 501.6 [0 9.2 0.076 0.195 62.5 2.62
+The first row (0 pJ laser pulse energy) summarizes their measurements on the aged alloy. The column
+labeled ΔT illustrates that 2 of the calculated temperatures were smaller than the aging temperature of
+463K,atwhichthesizesoftheδ′precipitatesshouldhaveincreasedfromtheirinitialdiameterof14.2nm.
+The column labeled\d[shows that their average particle diameter increases monotonically with pulse
+energy, or equivalently T. The last 2 columns illustrate the difference between the diffusion coefficients
+calculatedbyKhushaimetal.(D)andthediffusioncoefficientsofPe´rez-Landaza´baletal.[48](D )
+PL
+at453and463K.Theprecipitatespersistedonre-agingthe to study the redistribution of the δ′ precipitate
+alloyfor3hat526K,butcompletelydissolvedafteraging microstructures and concomitant solute concentrations in
+for 3 h at 531 K. This places the solubility limit for Xαe = the α matrix and δ′ precipitate phases. Their alloy con-
+0.079 at T ≈ 528 K, which is the entry in Fig. 2. tained7.8%Liandwasagedinitiallyat463Kfor3h,after
+Shaiu et al.[28] used SAXS and TEM to study the early which APT tips were prepared for subsequent regulated
+stages of aging and dissolution in three alloys containing and well-characterized in-situ pulsed laser heating to
+5.2, 7.0 and 12.0% Li aged at temperatures between 300 known energies ranging from 10 to 100 pJ. After each
+and600K.Themainobjectivewastoexploretheordering application of laser heating the authors measured the
+reaction and aging kinetics from the beginning of precipi- average diameter,\d[,N
+v
+,XαandXδ′.Thetemperatureof
+tation.Dissolutionexperimentswereusedtodeterminethe the APT specimen tips could not be measured directly, so
+δ′ solvus, which is why their results are included here the authors used data on the diffusion of Li as well as
+ratherthaninSec.2.3.6.Theresultsreportedinthetextof assumptions about the diffusion distance, and a diffusion
+theirpapershowthattheδ′solvustemperatureis468Kfor time of t=1 s, to obtain an estimate of the diffusion coef-
+Xαe =0.070 and 578 K for Xαe =0.120, both temperatures ficient for Li in the solid solution, D, corresponding to the
+havinganuncertaintyof±2.5K;thesedataarereportedin energyappliedtotheAPTtip.Thediffusiondistance,L,as
+Fig. 2. Curiously, Shaiu et al. did not observe δ′ precipi- a function of energy was taken as the difference between
+tation in the alloy containing 5.2% Li, which is clearly the average size before and after application of the laser
+supersaturated at temperatures below420 K according to pulses. Having assigned t=1 s and estimated L, D was
+Fig. 2. The reason for this finding is unclear. calculated using the relationship D=L2/4t, after which
+Del R´ıo et al.[31] investigated δ′ precipitation and dis- T was calculated by making use of the Arrhenius rela-
+solution in an alloy containing 9.9% Li using positron tionship D=D exp(-Q /RT), with the activation energy for
+0 d
+annihilationspectroscopy(PAS).Theysolution-treatedthis diffusion, Q =119 kJ/mol, and an unreported value of D .
+d 0
+alloy at 843, water-quenched it to room temperature and Using the values of D reported in Table 2 of Khushaim
+used TEM to detect the presence of ordered δ′ precipitates etal.itiseasytoshowthattheaveragevalueofD usedby
+0
+from L1 superlattice reflections in electron diffraction the authors must have been 1.458910–5 m2/s.
+2
+patterns. Subsequent annealing experiments on the as- Khushaim et al.[32] reported the main results of their
+quenched specimens using PAS lifetime measurements work, specifically their data on Xα and Xδ′ as equilibrium
+revealed dissolution of the δ′ precipitates at around 423 K solubilities, Xαe and Xδ′e for their calculated temperatures.
+(as indicated by decreasing lifetimes), but growth of the δ′ It has already been noted that the concentrations reported
+precipitates up to a temperature of 550 K (increasing life- as equilibrium solubilities are not regarded as such in this
+times), followed by decreasing lifetimes at T[550. They work. The reasons why are severalfold. Perhaps the most
+interpretedtheirdatatomeanthattheδ′solvustemperature important reason has to do with thermodynamic and
+ofthe 9.9% Lialloy hadbeen placed at 550 K.Thus Xαe = kinetics imperatives when specimens containing precipi-
+0.099at550Kistakenastheδ′solvuspointforthisalloy. tates are doubly aged. Recall that all the specimens sub-
+The final entry in this section, and paper, involves the jected to pulsed laser heating were first aged for 3 h at
+investigation of Khushaim et al.[32] They used atom probe 463 K. According to the authors the δ′ precipitate disper-
+tomography(APT)inconjunctionwithpulsedlaserheating sion was characterized initially by the parameters\d[=
+123
+
+===== PAGE 11 =====
+J.PhaseEquilib.Diffus.(2023)44:255–268 265
+14.2 nm, Xα=0.054 and Xδ′=0.226. Taking T=463 K as a 3 Summary
+reference temperature, T , and denoting the re-aging tem-
+1
+peratureasT ,considertheconsequencesofthesignofΔT The primary objective of this critical review of the litera-
+2
+=T −T .IfΔT[0theδ′precipitatesmustinitiallydissolve, ture on the Al-Al Li (δ′) phase diagram was to establish
+1 2 3
+concomitantly enrich the matrix locally and find their own beyondareasonabledoubtthephaseboundariesthatdefine
+concentrations depleted. On the other hand, if ΔT\0 the equilibrium between the α and δ′ phases, i.e. the δ′ and α
+precipitates must initially grow as solute flows towards solvuscurves.Atotalof64datapointswereconsideredin
+them asdemanded bythephase diagram, hencethematrix connection with the δ′ solvus, 22 of which were rejected,
+mustbecomelocallydepletedinsoluteandtheprecipitates either has having concentrations too far removed from the
+must become enriched. This mandatory behavior is com- mainstreamdataorbecausetheconcentrationscouldnotbe
+pletelybeliedbytheresultsofKhushaimetal.Theyreport accepted as equilibrium values. The latter category
+that \d[ and Xδ′ both decrease, while Xα increases, includes the data of Ceresara et al.[20], Cocco et al.[21] and
+monotonically as the laser energy and T increase. This Khushaimetal.[32],eventhoughitisapparentinFig.2that
+behaviorisreproducedinTable5,whichshowsthatΔT\0 most of the rejected data agree quite well with the bulk of
+for two of their calculated temperatures, with the associ- the data on the δ′ solvus. The data on Xα of Ceresara et al.
+ated and non-physical increase in \d[ instead of the andCoccoetal.,whicharenearlyoverlappinginFig.2,are
+expected decrease. very likely close to Xαe at the higher temperatures of their
+There are also shortcomings associated with the diffu- investigationsand mightwell have been includedinthefit
+sivities calculated by Khushaim et al.[32] The diffusion of without having much influence on the outcome. The same
+LiinAl-Lisolutionhasbeenmeasuredinan8.1%Lialloy is true for the data of Khushaim et al. However, knowing
+by Pe´rez-Landaza´bal et al.[48] using an internal friction that the exclusion of non-equilibrium data is the appro-
+method; their diffusivities are denoted here as D . The priate path towards establishing the δ′ solvus, provides
+PL
+temperature range of the internal friction measurements additional confidence in Eq 2 moving forward.
+encompasses that of δ′ precipitation, thereby obviating the The data on the α solvus consist of 11 data points that
+needforlargeextrapolationsofconventionaldiffusiondata agree remarkably well with the retrograde theoretical
+tolowtemperatures.ThetemperaturedependenceofD is curvesofKhachaturyanetal.[14]andHallstedtandKim.[5],
+PL
+represented by an Arrhenius equation with D =3910–7 and the compromise offered by Eq 3 provides a solid
+0PL
+m2/s and Q =115.79 kJ/mol[48]; the calculated values of foundation for future work involving the calculation of
+PL
+D are shown in Table 5. Comparison of the diffusion equilibrium volume fractions using the lever rule, Eq 1.
+PL
+coefficients calculated by Khusheim et al. with those Inclosing,thephasediagraminFig.2hasnotonlybeen
+measured by Pe´rez-Landaza´bal et al. (see the last 2 col- informed by considerable re-analysis of previously pub-
+umnsofTable5)showsthattheformerareabout 23to24 lished data, but also by the inclusion of data that have not
+times faster. This means that the diffusion distances, L, been previously considered[18,30,33]. Additionally, the data
+estimatedfromD areafactorofroughly4.8smallerthan ofPapazianetal.[11],whichweremis-attributedthroughno
+PL
+those estimated by Khusheim et al.[32] Referring to their fault of their own, have been removed. It is reiterated that
+Table 2, their values of L vary between 0.8 and 5 nm over only data on binary alloys have been considered in this
+the temperature range of their calculations. The diffusion work.
+distances calculated using D therefore imply that a Li
+PL
+atomwillrandom-walkadistanceofonly1nmevenatthe Acknowledgments The author is grateful to Professor David B.
+Williams, The Ohio State University, for providing a copy of the
+highesttemperaturemeasuredbyKhushaimetal.Themain
+paperbySungetal.[25]
+implicationofthesemuchsmallercalculatedvaluesofLis
+that the temperatures accompanying pulsed laser heating Open Access This article is licensed under a Creative Commons
+musthavebeensignificantlyhigherthanthoseestimatedby Attribution 4.0 International License, which permits use, sharing,
+adaptation,distributionandreproductioninanymediumorformat,as
+Khushaimetal.Highertemperaturesareentirelyconsistent
+long as you give appropriate credit to the original author(s) and the
+with the reported monotonic decrease of \d[ with
+source,providealinktotheCreativeCommonslicence,andindicate
+increasing laser pulse energy. ifchangesweremade.Theimagesorotherthirdpartymaterialinthis
+Having noted all the deficiencies in the work of articleareincludedinthearticle’sCreativeCommonslicence,unless
+Khushaim et al.[32], it is nevertheless quite obvious on indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnot
+includedinthearticle’sCreativeCommonslicenceandyourintended
+viewing Fig. 2 that their reported values of Xα agree
+useisnotpermittedbystatutoryregulationorexceedsthepermitted
+exceptionallywellwiththedataontheδ′solvus.Afterfull
+use, you will need to obtain permission directly from the copyright
+consideration of their methods of analysis, it can only be holder.Toviewacopyofthislicence,visithttp://creativecommons.
+org/licenses/by/4.0/.
+concluded that the agreement is fortuitous.
+123
+
+===== PAGE 12 =====
+266 J.PhaseEquilib.Diffus.(2023)44:255–268
+Appendix
+See (Tables 6 and 7).
+Table6 Datausedinevaluatingtheδ′solvuscurve,presentedas(Xαe ,T)coordinatesspecifyingtheequilibriumatomfractionLiandthesolvus
+temperatureinK
+Authors Method Data
+Williams&Edington[19] TEM (0.078,505);(0.107,594);(0.129,615)
+Ceresaraetal.[20] SAXS (0.0506,293);(0.0564,398);(0.0593,423);(0.0602,423);(0.0665,473)
+Coccoetal.[20] SAXS (0.0502,293);(0.0556,398);(0.0584,423);(0.0663,473)
+Jensrud&Ryum[23] TEM (0.10960,596)
+Nozato&Nakai[22] Calorimetry (0.05845,510);(0.06285,505);(0.07336,522);(0.07697,530);(0.08701,545);(0.09730,579)
+LivetandBloch[8] SAXS (0.04421,423);(0.05509,453)
+Baumann&Williams[33] TEM/Reversion (0.079,528)
+Fujikawaetal.[24] Resistivity (0.0237,473)
+Liu&Williams[27] EELS (0.088,563)
+Shaiuetal.[28] SAXS/Reversion (0.070,468);(0.120,578)
+Jo[29] Resistivity (0.0460,493);(0.0493,513)
+Abisetal.[30] SANS (0.070,463)
+DelR´ıoetal.[31] PAS/Reversion (0.099,550)
+Noble&Bray[7] Resistivity (0.0254,343);(0.0380,373);(0.0432,373);(0.0475,403);(0.0530,403);
+(0.0498,423);(0.0520,423);(0.0532,423);(0.0550,443);(0.0600,473);
+(0.0690,493);(0.0763,519);(0.0983,578);(0.1200,632);(0.1200,643);(0.1314,665)
+Calorimetry (0.0605,467);(0.0764,523);(0.0986,575);(0.0947,583);(0.1200,627);(0.1388,656)
+Mergiaetal.[9] SANS (0.0483,363);(0.0464,393);(0.0512,423);(0.0597,458);(0.0720,483)
+Tsaoetal.[10] SAXS (0.0489,423);(0.0543,433);(0.0456,443)
+Khushaimetal.[32] APT/Reversion (0.059,444.4);(0.062,460.5);(0.065,468.0);(0.070,480.6);
+(0.072,490.3);(0.076,501.6)
+ThedatainboldfacewereincludedinthefitusedtoobtainEq2
+Table7 Datausedinevaluatingtheαsolvuscurve,presentedas(Xδ′e ,T)coordinatesspecifyingtheequilibriumatomfractionLiandthesolvus
+temperatureinK
+Authors Method Data
+Tamuraetal.[18] XRD (0.2279,473)
+Coccoetal.[20] SAXS (0.2461,293.0);(0.2375,398.0);(0.2326,423.0);(0.2197,473.0)
+LivetandBloch[8] SAXS (0.2514,423.0);(0.2272,453.0)
+Sungetal.[25] EELS (0.2174,573)
+LiuandWilliams[26] XRD (0.2537,428);(0.2271,498)
+QM (0.1628,493)
+LiuandWilliams[27] EELS (0.2360,428);(0.2180,498);(0.2050,563)
+Khushaimetal.[32] APT/Reversion (0.2170,444.4);(0.2100,460.5);(0.2050,468);(0.2000,480.6);
+(0.1990,490.3);(0.1950,501.6)
+ThedatainboldfacerepresentacceptablefitstothetheoreticalcurvesofHallstedtandKim[5]andKhachaturyanetal.[14].Theabbreviationsare
+definedinthetext
+123
+
+===== PAGE 13 =====
+J.PhaseEquilib.Diffus.(2023)44:255–268 267
+References 21. G.Cocco,G.Fagherazzi,andL.Schiffini,Determinationoftheδ′
+Coherent Miscibiliy Gap in the Al-Li System by Small-Angle
+x-rayScattering,J.Appl.Crystallogr.,1977,10,p325–327.
+1. R.J.Rioja,andJ.Liu,TheEvolutionofAl-LiBaseProductsfor
+22. R. Nozato, and G. Nakai, Thermal Analysis of Precipitation in
+AerospaceandSpaceApplications,Metall.Mater.Trans.A,2012,
+Al-LiAlloys,Trans.JapanInst.Met.,1977,18,p679–689.
+43,p3325–3337.
+23. O. Jensrud, and N. Ryum, The Development of Microstructures
+2. E.A. Starke, Historical Development and Present Status of Alu-
+inAl-LiAlloys,Mater.Sci.Eng.,1984,64,p229–236.
+minum-Lithium Alloys, in Aluminum-Lithium Alloys. N.E. Pra-
+24. S.Fujikawa,Y.Izeki,andK.Hirano,DeterminationofEquilib-
+sad, A.A. Gokhale, and R. Wanhill, Eds., Elsevier-BH,
+rium Solute Content in Matrix, Precipiatae-Matrix Interfacial
+Amsterdam,2014,p3–26
+Free Energy and Effective Diffusivity in Al-Li Alloys using
+3. A.AbdEl-Aty,Y.Xu,X.Guo,S.H.Zhang,Y.Ma,andD.Chen,
+Coarsening Data Alone for δ′ (Al Li) Precipitates, Scr. Metall.,
+Stengthening Mechanisms, Deformation Behavior, and Aniso- 3
+1986,20,p1275–1280.
+tropicMechanicalPropertiesofAl-LiAlloys:AReview,J.Adv.
+25. C.M. Sung, H.M. Chan, and D.B. Williams, Quantitative
+Res.,2018,10,p49–67.
+Microanalysis of Li in Binary Al-Li Alloys, in Aluminium-
+4. Y. Yang, G. He, Y. Liu, K. Li, W. Wu, and C. Huang, Quanti-
+LithiumAlloysIII,TheInstituteofMetals,1986,pp.337–46.
+tative Contribution of T1 Phase to the Strength of Al-Cu-Li
+26. D.-R. Liu, and D.B. Williams, Determination of the δ′ Solvus
+Alloys,J.Mater.Sci.,2021,56,p18368–18390.
+LineinAl-LiAlloysbyMeasurementoftheδ′VolumeFraction,
+5. B.Hallstedt,andO.Kim,ThermodynamicAssessmentoftheAl-
+Scr.Metall.,1988,22,p1361–1365.
+LiSystem,Int.J.Mater.Res.,2007,98,p961–969.
+27. D.-R. Liu, and D.B. Williams, Accurate Quantification of
+6. P.Neibecker,M.Leitner,M.Kushaim,T.Boll,D.Anjum,T.Al-
+Kassab, andF. Haider, L1 Ordering and δ′ Precipitation in Al- Lithium in Aluminium-Lithium Alloys with Electron Energy-
+2 LossSpectrometry,Proc.R.Soc.LondonA,1989,425,p91–111.
+Cu-Li,Sci.Rep.,2017,7,p1–11.
+7. B. Noble, and S.E. Bray, On the α(Al)/δ′(Al Li) 28. B.J.Shaiu,H.T.Li,H.Y.Lee,andH.Chen,Decompositionand
+3 Dissolution Kinetics of δ′ Precipitation in Al-Li Binary Alloys,
+Metastable Solvus in Aluminium-Lithium Alloys, Acta Mater.,
+Metall.Trans.A,1990,21,p1133–1141.
+1998,46,p6163–6171.
+29. H. Jo, Determination of the Equilibrium Solubility of Solute
+8. F.Livet,andD.Bloch,AKineticAnalysisofAl-Al LiUnmix-
+3 Atoms in Aluminium by Electrical Resistivity, J. Korean Inst.
+ing,Scr.Metall.,1985,10,p1147–1151.
+Met.,1990,28,p499–504.
+9. K.Mergia,S.Messoloras,F.Al-Hazmi,andR.J.Stewart,Study
+30. S. Abis, R. Caciuffo, F. Carsughi, R. Coppola, M. Magnani, F.
+of the Precipitation Kinetics in an Al–8.9 at.% Li Alloy using
+Rustichelli,andM.Stefanon,LateStagesofδ′Precipitationinan
+Small-Angle Neutron Scattering, Philos. Mag. A, 2000, 80,
+Al-Li Alloy by Small-Angle Neutron Scattering, Phys. Rev. B,
+p2609–2628.
+1990,42,p2275–2281.
+10. C.S. Tsao, C.Y. Chen, and J.Y. Huang, Coarsening Kinetics,
+Thermodynamic Properties, and Interfacial Characteristics of δ′ 31. J.delR´ıo,F.Plazaola,andN.deDiego,APositronAnnihilation
+StudyoftheFormationandDissolutionofL1 PrecipitatesinAl-
+Precipitates in Al-Li Alloys Taking into Account the Gibbs- 2
+LiAlloys,Philos.Mag.A,1994,69,p591–596.
+ThomsonEffect,Phys.Rev.B,2004,70,p1–9.
+32. M. Khushaim, R. Gemma, and T. Al-Kassab, Laser-Induced
+11. J.M.Papazian,C.Sigli,andJ.M.Sanchez,NewEvidenceforGP
+Reversion of δ′ Precipitates in an Al-Li Alloy: Study on Tem-
+ZonesinBinaryAl-LiAlloys,Scr.Metall.,1986,20,p201–206.
+perature Rise in Pulsed Laser Atom Probe, Microsc. Res. Tech.,
+12. C.Sigli,andJ.M.Sanchez,CalculationofPhaseEquilibriumin
+2016,79,p727–737.
+Al-LiAlloys,ActaMetall.,1986,34,p1021–1028.
+33. S.F. Baumann, and D.B. Williams, Effects of Capillarity and
+13. P.D. Pitcher, R.J. Stewart, and S. Gupta, A Study of Reversion
+Coherency on δ′ (Al Li) Precipitation in Dilute Al-Li Alloys at
+Behaviourin8090AlloysusingSmallAngleNeutronScattering 3
+LowUndercoolings,ActaMetall.,1985,33,p1069–1078.
+andTransmissionElectronMicroscopy,Scr.Metall.Mater.,1992,
+34. S.W.Chen,C.H.Jan,J.C.Lin,andY.A.Chang,PhaseEquilibria
+26,p511–516.
+oftheAl-LiBinarySystem,Metall.Trans.A,1989,20,p2247–
+14. A.G. Khachaturyan, T.F. Lindsey, and J.W. Morris, Theoretical
+InvestigationofthePrecipitationofδ′inAI-Li,Metall.Trans.A, 2258.
+35. Z.Mao,D.N.Seidman,andC.Wolverton,Erratum:“TheEffect
+1988,19,p249–258.
+ofVibrationalEntropyontheSolubilityandStabilityofOrdered
+15. E. Nembach, Order Srengthening: Recent Developments, with
+Al LiphasesinAl-LiAlloys,”APLMater.,2016,4,p3–5.
+Special Reference to Aluminium-Lithium-Alloys, Prog. Mater. 3
+36. S. Liu, G. Esteban-Manzanares, and J. Llorca, First Principles
+Sci.,2000,45,p275–338.
+PredictionoftheAl-LiPhaseDiagram,Metall.Mater.Trans.A,
+16. B.P. Gu, G.L. Liedl, K. Mahalingam, and T.H. Sanders, Appli-
+cation of the Weibull Density-Function to Describe the Delta′- 2021,52,p4675–4690.
+37. W.Shao,S.Liu,andJ.Llorca,FirstPrinciplesPredictionofthe
+(Al Li)ParticleSizeDistributioninBinaryAl-LiAlloys,Mater.
+3 Al-Li Phase Diagram Including Configurational and Vibrational
+Sci.Eng.,1986,78,p71–85.
+Entropic Contributions, Comput. Mater. Sci., 2023, 217,
+17. K. Mahalingam, B.P. Gu, G.L. Liedl, and T.H. Sanders, Coars-
+ening of δ′(Al Li) Precipitates in Binary Al-Li Alloys, Acta p111898.
+3 38. F.W. Gayle, and J.B. Vander Sande, The Al-Li (Aluminum-
+Metall.,1987,35,p483–498.
+Lithium)System,Bull.AlloyPhaseDiagrams,1984,5,p19–20.
+18. M. Tamura, T. Mori, and T. Nakamura, Precipitation of Al Li
+3 39. A.J. Ardell, Experimental Confirmation of the Lifshitz-Wagner
+fromanAl-3%LiAlloyandSomePropertiesofAl Li,JJapan
+3 TheoryofParticleCoarseninginMechanismofPhaseTransfor-
+Inst.Met.,1970,34,p919–925.
+19. D.B.Williams,andJ.W.Edington,ThePrecipitationofδ′(Al Li) mationsinCrystallineSolids-MonographandReportSeries,Inst.
+3 of Metals, Monograph and Report Series 33, London, 1969,
+in Dilute Aluminium-Lithium Alloys, Met. Sci. J., 1975, 9,
+pp.111–116.
+p529–532.
+40. A.J. Ardell, Trans-Interface-Diffusion-Controlled Coarsening of
+20. S. Ceresara, G. Cocco, G. Fagherazzi, and L. Schiffini, Deter-
+minationoftheδ′CoherentSolvusintheAl-LiSystembySmall- γ′ Particles in Ni–Al Alloys: Commentaries and Analyses of
+RecentData,J.Mater.Sci.,2020,55,p14588–14610.
+Anglex-rayScattering,Philos.Mag.,1977,35,p373–378.
+123
+
+===== PAGE 14 =====
+268 J.PhaseEquilib.Diffus.(2023)44:255–268
+41. F.DeGeuser,andA.Deschamps,PrecipitateCharacterisationin 46. A.J. Ardell, Temporal Behavior of the Number Density of Par-
+Metallic Systems by Small-Angle x-ray or Neutron Scattering, ticles during Ostwald Ripening, Mater. Sci. Eng. A, 1997, 238,
+ComptesRendusPhys.,2012,13,p246–256. p108–120.
+42. V. Gerold, Die Zonenbildung in Aluminium-Zink-Legierungen, 47. C.S. Tsao, T.L. Lin, and M.S. Yu, A Small-Angle x-ray Scat-
+Phys.StatusSolidi,1961,1,p37–49. teringStudyofLate-Stageδ′PrecipitationinAl-79.5LiAlloyfor
+43. H.I. Aaronson, K.R. Kinsman, and K.C. Russell, The Volume Growth Kinetics and Dynamic Scaling, Physica B, 1999, 271,
+FreeEnergyChangeAssociatedwithPrecipitateNucleation,Scr. p322–331.
+Metall.,1970,4,p101–106. 48. J.I. Pe´rez-Landaza´bal, J. San Juan, and M.L. No´, Stess Induced
+44. F.Bley,P.Guyot,F.Livet,andJ.P.Simon,DynamicsofPhase Li-LiPairsReorientationinAl-LiAlloys,Appl.Phys.Lett.,1995,
+Separation in Metallic Systems, Phase Transitions, 1991, 31, 67,p1200–1202.
+p201–218.
+45. F. Bley, J. Desplat, P. Guyot, F. Livet, J. Mainville, and J.P.
+Simon, Se´parations de Phases dans lesSolutions Solides Me´tal- Publisher's Note Springer Nature remains neutral with regard to
+liques,J.Phys.IVColloqueC3Suppl.J.Phys.III,1994,4,pC3- jurisdictionalclaimsinpublishedmapsandinstitutionalaffiliations.
+15-C3-24.
+123
